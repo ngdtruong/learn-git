@@ -5,4 +5,5 @@ public class A {
     public int age;
     public String address;
     public int height;
+    public String birthday;
 }
